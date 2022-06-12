@@ -1,9 +1,6 @@
 {
-  "short_name": "Portfolio",
-  "name": "mf_portfolio",
-  "homepage": "http://www.m5fgn.co.uk",
-  "version": "1.0",
-  "description": "Portfolio",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
