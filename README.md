@@ -23,7 +23,7 @@ The purpose of this repo is to hold the build files for my Personal Portfolio. T
 
 ## View Full Code
 
-1. Visit the site at [www.m5fgn.co.uk](http://www.m5fgn.co.uk)
+1. Find the full code on [GitHub Repo - portfolio](https://github.com/M5FGN/portfolio)
 
 ## Screenshots
 
