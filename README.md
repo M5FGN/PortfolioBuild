@@ -1,6 +1,7 @@
 # Portfolio Build
 
 ## Purpose
+
 The purpose of this repo is to hold the build files for my Personal Portfolio. These files as Auto Deployed from this repo to my live site at [www.m5fgn.co.uk](http://www.m5fgn.co.uk).
 
 ---
@@ -8,6 +9,7 @@ The purpose of this repo is to hold the build files for my Personal Portfolio. T
 ## Technologies Used
 
 ### App Development
+
 * React.js
 * Node.js
 
